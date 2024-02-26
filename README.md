@@ -47,8 +47,3 @@ This project is inspired by Tony Stark's AI assistant, J.A.R.V.I.S., from the Ma
 ## Contribution
 
 Contributions are welcome! If you have any ideas for improving Jarvis or adding new features, feel free to contribute by opening an issue or creating a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-   
