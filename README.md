@@ -22,7 +22,7 @@ Jarvis is a Python-based personal AI assistant that can perform various tasks an
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/bhushankhopkarr/AI-Exam-Proctoring-System.git
+   git clone git@github.com:bhushankhopkarr/Desktop_Assistant.git
 
 ## Usage
 
