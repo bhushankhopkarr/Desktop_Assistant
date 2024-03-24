@@ -122,7 +122,6 @@ if __name__ == "__main__":
         elif "open notepad" in query:
             subprocess.Popen("notepad.exe")
             print("Notepad is now open.")
-             
         
         elif "close notepad" in query:
             os.system("taskkill /f /im notepad.exe")
@@ -260,9 +259,6 @@ if __name__ == "__main__":
             pyautogui.press('enter')
             time.sleep(1)
             pyautogui.write("How To Manual", interval=0.1)
-        
-         
-           
         
         elif 'type' in query:
             query = query.replace("type", "")
